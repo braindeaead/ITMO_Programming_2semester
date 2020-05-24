@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/azamat/Documents/Programming/2 semester/Lab2/2sem2lab/main.cpp
+iostream
+-
+polynome.h
+/Users/azamat/Documents/Programming/2 semester/Lab2/2sem2lab/polynome.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab2/2sem2lab/polynome.h
+cmath
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/azamat/Documents/Программирование/2 semester/Lab1/2sem1lab/main.cpp
+iostream
+-
+procedure.h
+/Users/azamat/Documents/Программирование/2 semester/Lab1/2sem1lab/procedure.h
+
+/Users/azamat/Documents/Программирование/2 semester/Lab1/2sem1lab/procedure.cpp
+procedure.h
+/Users/azamat/Documents/Программирование/2 semester/Lab1/2sem1lab/procedure.h
+
+/Users/azamat/Documents/Программирование/2 semester/Lab1/2sem1lab/procedure.h
+math.h
+-
+

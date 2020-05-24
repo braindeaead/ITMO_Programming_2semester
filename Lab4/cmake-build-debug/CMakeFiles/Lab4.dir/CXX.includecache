@@ -1,0 +1,122 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/BaseCObject.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Commands.cpp
+iostream
+-
+algorithm
+-
+Commands.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Commands.h
+Hexagon.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.h
+Section.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+United.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/United.h
+cmath
+-
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Commands.h
+vector
+-
+Section.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.h
+Hexagon.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+United.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/United.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.cpp
+Hexagon.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.h
+iostream
+-
+cmath
+-
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.h
+IPhysObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPhysObject.h
+IPrintable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPrintable.h
+IGeoFig.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IGeoFig.h
+IDialogInitiable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IDialogInitiable.h
+BaseCObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/BaseCObject.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+United.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/United.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/IDialogInitiable.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/IGeoFig.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPhysObject.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPrintable.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.cpp
+Section.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.h
+iostream
+-
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.h
+IPhysObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPhysObject.h
+IPrintable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPrintable.h
+IGeoFig.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IGeoFig.h
+IDialogInitiable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IDialogInitiable.h
+BaseCObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/BaseCObject.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+United.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/United.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/United.h
+BaseCObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/BaseCObject.h
+CVector2D.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/CVector2D.h
+IDialogInitiable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IDialogInitiable.h
+IGeoFig.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IGeoFig.h
+IPhysObject.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPhysObject.h
+IPrintable.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/IPrintable.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab4/main.cpp
+iostream
+-
+Hexagon.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Hexagon.h
+Section.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Section.h
+Commands.h
+/Users/azamat/Documents/Programming/2 semester/Lab4/Commands.h
+

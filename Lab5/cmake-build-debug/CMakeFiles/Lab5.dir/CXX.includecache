@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/azamat/Documents/Programming/2 semester/Lab5/Array.h
+iostream
+-
+Exception.h
+/Users/azamat/Documents/Programming/2 semester/Lab5/Exception.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab5/Exception.cpp
+Exception.h
+/Users/azamat/Documents/Programming/2 semester/Lab5/Exception.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab5/Exception.h
+exception
+-
+string
+-
+
+/Users/azamat/Documents/Programming/2 semester/Lab5/MaxElement.h
+
+/Users/azamat/Documents/Programming/2 semester/Lab5/main.cpp
+iostream
+-
+Array.h
+/Users/azamat/Documents/Programming/2 semester/Lab5/Array.h
+MaxElement.h
+/Users/azamat/Documents/Programming/2 semester/Lab5/MaxElement.h
+Exception.h
+/Users/azamat/Documents/Programming/2 semester/Lab5/Exception.h
+
